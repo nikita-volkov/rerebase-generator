@@ -284,6 +284,8 @@ main =
     "Control.Concurrent.STM.TVar",
     "Control.Monad.STM",
     "Data.Scientific",
+    "Data.ByteString.Builder.Scientific",
+    "Data.Text.Lazy.Builder.Scientific",
     "Data.UUID",
     "Data.DList",
     "Data.Void",
