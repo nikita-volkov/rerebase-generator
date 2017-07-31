@@ -60,7 +60,6 @@ main =
     "Data.Type.Coercion",
     "Data.Type.Equality",
     "Data.Typeable",
-    "Data.Typeable.Internal",
     "Data.Unique",
     "Data.Version",
     "Data.Word",

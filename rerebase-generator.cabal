@@ -1,7 +1,7 @@
 name:
   rerebase-generator
 version:
-  1.0.3
+  1.1
 synopsis:
   A utility for the generation of the "rerebase" project
 homepage:
@@ -40,6 +40,7 @@ library
     Rerebase.Generator
   other-modules:
     Rerebase.Generator.Templates
+    Rerebase.Generator.Model
   build-depends:
     directory == 1.*,
     filepath == 1.*,
