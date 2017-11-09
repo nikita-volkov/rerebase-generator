@@ -25,7 +25,7 @@ cabal moduleNames =
     name:
       rerebase
     version:
-      1.1
+      1.1.1
     synopsis:
       Reexports from "base" with a bunch of other standard libraries
     description:

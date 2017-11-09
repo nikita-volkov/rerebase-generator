@@ -168,6 +168,8 @@ main =
     "Data.Monoid",
     "Data.Ord",
     "Data.Profunctor",
+    "Data.Profunctor.Choice",
+    "Data.Profunctor.Strong",
     "Data.Profunctor.Unsafe",
     "Data.Proxy",
     "Data.Ratio",
