@@ -60,7 +60,6 @@ main =
     "Control.Monad.Trans",
     "Control.Monad.Trans.Class",
     "Control.Monad.Trans.Cont",
-    "Control.Monad.Trans.Either",
     "Control.Monad.Trans.Except",
     "Control.Monad.Trans.Identity",
     "Control.Monad.Trans.List",

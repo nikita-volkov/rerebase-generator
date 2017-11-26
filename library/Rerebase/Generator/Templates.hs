@@ -67,7 +67,7 @@ cabal moduleNames =
       exposed:
         False
       build-depends:
-        rebase >= 1.1.1 && < 1.2
+        rebase >= 1.2 && < 1.3
   |]
   where
     modules =
