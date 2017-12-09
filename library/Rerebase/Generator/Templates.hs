@@ -25,7 +25,7 @@ cabal moduleNames =
     name:
       rerebase
     version:
-      1.2
+      1.2.1
     synopsis:
       Reexports from "base" with a bunch of other standard libraries
     description:
@@ -67,7 +67,7 @@ cabal moduleNames =
       exposed:
         False
       build-depends:
-        rebase >= 1.2 && < 1.3
+        rebase >= 1.2.2 && < 1.3
   |]
   where
     modules =
